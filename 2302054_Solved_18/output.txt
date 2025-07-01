@@ -1,0 +1,119 @@
+ LAB ◉
+> java Assignment1
+Name: Arif Uzzaman.
+Age: 20
+Address: Patuakhali, Barisal
+University: PSTU
+
+ LAB ◉
+> java Assignment2
+20
+5.8
+3.75
+A
+Arif
+true
+
+ LAB ◉
+> java Assignment3
+Enter your name: Arif
+Enter your age: 21
+Enter your favorite subject: CSE
+Name: Arif, Age: 21, Favorite Subject: CSE
+
+ LAB ◉
+> java Assignment4
+Enter total price: 50000
+Enter number of months: 10
+Monthly Installment: 5000.0
+
+ LAB ◉
+> java Assignment5
+Enter your age: 21
+You are eligible to vote.
+
+ LAB ◉
+> java Assignment6
+Enter a digit (0-9): 8
+Eight
+
+ LAB ◉
+> java Assignment7
+10
+Number is between 10 and 100
+
+ LAB ◉
+> java Assignment8
+50
+Number is between 10 and 100
+
+ LAB ◉
+> java Assignment10
+Sum = 55
+
+ LAB ◉
+> java Assignment11
+10
+Factorial = 3628800
+
+ LAB ◉
+> java Assignment12
+12
+21
+Sum of odd numbers = 85
+
+ LAB ◉
+> java Assignment13
+5
+5th Fibonacci number is 5
+
+ LAB ◉
+> java Assignment13
+45
+45th Fibonacci number is 1134903170
+
+ LAB ◉
+> java Assignment14
+14
+Not Palindrome
+
+ LAB ◉
+> java Assignment14
+12121
+Palindrome
+
+ LAB ◉
+> java Assignment15
+12121
+Not Armstrong
+
+ LAB ◉
+> java Assignment15
+300
+Not Armstrong
+
+ LAB ◉
+> java Assignment15
+153
+Armstrong
+
+ LAB ◉
+> java Assignment16
+15
+15th Fibonacci number is 610
+
+ LAB ◉
+> java Assignment17
+*
+* *
+* * *
+* * * *
+* * * * *
+
+ LAB ◉
+> java Assignment18
+5
+Thursday
+
+ LAB ◉
+>

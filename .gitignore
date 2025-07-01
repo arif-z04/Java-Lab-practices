@@ -1,3 +1,5 @@
 *.class
 *.py
 .vscode/
+drafts/
+.cph/
