@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class program20 {
+public class Program20 {
     public static void main(String[] args) {
         try(Scanner input = new Scanner(System.in)){
             System.out.print("Enter a decimal number: ");

@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class program18 {
+public class Program18 {
     public static void main(String[] args) {
         try(Scanner input = new Scanner(System.in)){
             
@@ -23,3 +22,4 @@ public class program18 {
         }
     }
 }
+

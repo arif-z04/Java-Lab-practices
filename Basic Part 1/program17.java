@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class program17 {
+public class Program17 {
     public static void main(String[] args) {
         try(Scanner input = new Scanner(System.in)){
             System.out.print("Enter first binary number: ");

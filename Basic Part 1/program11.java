@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class program11 {
+public class Program11 {
 
     public static double area_circle(double radius){
         double area = Math.PI * radius * radius;
@@ -28,3 +27,4 @@ public class program11 {
     }
     
 }
+

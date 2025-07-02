@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class program5 {
+public class Program5 {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             int a, b;
@@ -13,3 +12,4 @@ public class program5 {
         }
     }
 }
+

@@ -2,7 +2,7 @@ import java.util.*;
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
-public class program4 {
+public class Program4 {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.println("Expression: ");

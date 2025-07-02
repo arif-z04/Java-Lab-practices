@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program12 {
+public class Program12 {
     public static double avg(double a, double b, double c){
         double avg = (a + b + c)/3;
         return avg;

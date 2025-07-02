@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class program25 {  
+public class Program25 {  
     public static void main(String[] args) {
         try(Scanner input = new Scanner(System.in)){
             System.out.print("Enter an Octal Number: ");
@@ -13,3 +12,4 @@ public class program25 {
     }
     
 }
+

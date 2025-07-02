@@ -1,4 +1,4 @@
-public class program8 {
+public class Program8 {
  
     public static void main(String[] args) {
         System.out.println("   J    a   v     v  a ");
@@ -6,4 +6,4 @@ public class program8 {
         System.out.println("J  J  aaaaa   V V  aaaaa");
         System.out.println(" JJ  a     a   V  a     a");
     }
-} 
+}

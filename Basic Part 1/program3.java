@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class program3 {
+public class Program3 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             String exp = sc.nextLine();
@@ -39,3 +38,4 @@ public class program3 {
         }
     }
 }
+
